@@ -1,5 +1,5 @@
 <template>
-  <div>工艺管理ccc</div>
+  <div>工艺管理</div>
 </template>
 
 <script>
