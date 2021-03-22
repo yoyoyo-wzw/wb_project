@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+  <router-view></router-view>123
 </template>
 
 <script>
